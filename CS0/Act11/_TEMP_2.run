@@ -1,0 +1,154 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013)
+ restricted \write18 enabled.
+entering extended mode
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(./_TEMP_.tex (/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo))
+(../../cspogil.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu)))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/mathpazo.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/svgnam.def))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/soul/soul.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.dfu)))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/currfile/currfile.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/filehook/filehook.sty))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/enumitem/enumitem.sty))
+(./_TEMP_.aux) (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./_TEMP_.out) (./_TEMP_.out) (./product-join.tex
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ppl.fd)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omlzplm.fd)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omszplm.fd)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omxzplm.fd)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1zplm.fd)
+! Undefined control sequence.
+l.125 JOIN \sub
+               {course.cid = teach.cid} (course, teach)
+
+Overfull \vbox (79.79553pt too high) has occurred while \output is active
+Overfull \vbox (78.79553pt too high) has occurred while \output is active
+Overfull \vbox (77.79553pt too high) has occurred while \output is active
+Overfull \vbox (76.79553pt too high) has occurred while \output is active
+Overfull \vbox (75.79553pt too high) has occurred while \output is active
+Overfull \vbox (74.79553pt too high) has occurred while \output is active
+Overfull \vbox (73.79553pt too high) has occurred while \output is active
+Overfull \vbox (72.79553pt too high) has occurred while \output is active
+Overfull \vbox (71.79553pt too high) has occurred while \output is active
+Overfull \vbox (70.79553pt too high) has occurred while \output is active
+Overfull \vbox (69.79553pt too high) has occurred while \output is active
+Overfull \vbox (68.79553pt too high) has occurred while \output is active
+Overfull \vbox (67.79553pt too high) has occurred while \output is active
+Overfull \vbox (66.79553pt too high) has occurred while \output is active
+Overfull \vbox (65.79553pt too high) has occurred while \output is active
+Overfull \vbox (64.79553pt too high) has occurred while \output is active
+Overfull \vbox (63.79553pt too high) has occurred while \output is active
+Overfull \vbox (62.79553pt too high) has occurred while \output is active
+Overfull \vbox (61.79553pt too high) has occurred while \output is active
+Overfull \vbox (60.79553pt too high) has occurred while \output is active
+Overfull \vbox (59.79553pt too high) has occurred while \output is active
+Overfull \vbox (58.79553pt too high) has occurred while \output is active
+Overfull \vbox (57.79553pt too high) has occurred while \output is active
+Overfull \vbox (56.79553pt too high) has occurred while \output is active
+Overfull \vbox (55.79553pt too high) has occurred while \output is active
+Overfull \vbox (54.79553pt too high) has occurred while \output is active
+Overfull \vbox (53.79553pt too high) has occurred while \output is active
+Overfull \vbox (52.79553pt too high) has occurred while \output is active
+Overfull \vbox (51.79553pt too high) has occurred while \output is active
+Overfull \vbox (50.79553pt too high) has occurred while \output is active
+Overfull \vbox (49.79553pt too high) has occurred while \output is active
+Overfull \vbox (48.79553pt too high) has occurred while \output is active
+Overfull \vbox (47.79553pt too high) has occurred while \output is active
+Overfull \vbox (46.79553pt too high) has occurred while \output is active
+Overfull \vbox (45.79553pt too high) has occurred while \output is active
+Overfull \vbox (44.79553pt too high) has occurred while \output is active
+Overfull \vbox (43.79553pt too high) has occurred while \output is active
+Overfull \vbox (42.79553pt too high) has occurred while \output is active
+Overfull \vbox (41.79553pt too high) has occurred while \output is active
+Overfull \vbox (40.79553pt too high) has occurred while \output is active
+Overfull \vbox (39.79553pt too high) has occurred while \output is active
+Overfull \vbox (38.79553pt too high) has occurred while \output is active
+Overfull \vbox (37.79553pt too high) has occurred while \output is active
+Overfull \vbox (36.79553pt too high) has occurred while \output is active
+Overfull \vbox (35.79553pt too high) has occurred while \output is active
+Overfull \vbox (34.79553pt too high) has occurred while \output is active
+Overfull \vbox (33.79553pt too high) has occurred while \output is active
+Overfull \vbox (32.79553pt too high) has occurred while \output is active
+Overfull \vbox (31.79553pt too high) has occurred while \output is active
+Overfull \vbox (30.79553pt too high) has occurred while \output is active
+Overfull \vbox (29.79553pt too high) has occurred while \output is active
+Overfull \vbox (28.79553pt too high) has occurred while \output is active
+Overfull \vbox (27.79553pt too high) has occurred while \output is active
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+! Undefined control sequence.
+l.170 \Q What is the result of JOIN \sub
+                                        {teach.pid = professor.pid} (teach, ...
+
+)
+Overfull \hbox (2.28001pt too wide) in paragraph at lines 195--8
+[][][][]  
+[2] (./_TEMP_.aux) )
+(see the transcript file for additional information){/usr/local/texlive/2013/te
+xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/urw/palatino/uplb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/
+palatino/uplbi8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palati
+no/uplr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplr
+i8a.pfb>
+Output written on _TEMP_.pdf (2 pages, 71640 bytes).
+Transcript written on _TEMP_.log.
